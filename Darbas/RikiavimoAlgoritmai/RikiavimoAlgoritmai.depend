@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1780575376 source:c:\users\deividas\desktop\porjtekas\rikiavimoalgoritmai\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<chrono>
+	<random>
+	<string>
+	<iomanip>
+
